@@ -1,2 +1,3 @@
 # Basic-codes
-These are my first basic codes on github. 
+These are my first basic projects on github. 
+
