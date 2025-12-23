@@ -1,8 +1,7 @@
+  from random import randint
 choice = input("Do you want to play the game?(yes/no)")
 
 while(choice != "no"):
-
-    from random import randint
 
     n = randint (1,100)
     
@@ -39,3 +38,4 @@ while(choice != "no"):
     choice = input("Do you want to play the game again?(yes/no)")
 
 print(" Thanks for playing the game. ")
+
